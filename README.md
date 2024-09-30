@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @BioBrissDev!
+- 👀 I’m interested in many disciplines of bioinformatics! I have a masters degree in cellular and molecular biology. I am a curious person who wants to be a complete scientist!
+- 🌱 I’m a currently leaning python, R and SQL via an advanced diploma specialized in bioinformatics.
+- 📫 How to reach me : alexandrebriss01@gmail.com
